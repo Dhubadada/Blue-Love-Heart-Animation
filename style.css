@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: hsl(0, 0%, 2%);
+  overflow: hidden;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+canvas {
+  display: block;
+}
